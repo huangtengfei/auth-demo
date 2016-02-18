@@ -1,0 +1,21 @@
+{
+  "name": "Auth-demo",
+  "version": "0.0.1",
+  "description": "A auth demo based on AngularJS & NodeJs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AngularJS",
+    "Node.js",
+    "Authorization"
+  ],
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.7.0",
+    "mongoose": "^4.2.4",
+    "q": "^1.4.1"
+  }
+}
