@@ -1,4 +1,4 @@
-# 一个基于 AngularJS & NodeJS 实现的基于 token 的认证 demo
+# 一个使用 AngularJS & NodeJS 实现的基于 token 的认证 demo
 
 ## 使用说明
 
